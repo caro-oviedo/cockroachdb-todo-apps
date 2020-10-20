@@ -240,7 +240,7 @@ To build the web app follow these steps:
     ```bash
     python manage.py runserver 0.0.0.0:8000
     ```  
-3. Open browser and paste http://0.0.0.0:8000/  
+3. Open the browser and paste http://0.0.0.0:8000/  
 
 4. Start using the app!!   
 
